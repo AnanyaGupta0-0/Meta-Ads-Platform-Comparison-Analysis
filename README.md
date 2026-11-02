@@ -18,6 +18,22 @@ The dashboard transforms advertising data into interactive visual insights, help
 - **Interactive Filtering:** Explore data using available date, campaign, platform, and other dashboard filters.
 - **Time-Based Insights:** Analyze advertising activity and performance trends across different time periods.
 
+## 📸 Dashboard Preview
+
+### 1. Meta Ads Platform Comparison Dashboard
+The primary dashboard provides a comparative analysis of advertising performance across platforms, highlighting key performance indicators and campaign insights.
+
+<p align="center">
+  <img src="Screenshot%202026-11-01%20001951.png" width="100%" alt="Meta Ads Platform Comparison Dashboard">
+</p>
+
+### 2. Facebook Ads Performance Dashboard
+A detailed view of Facebook advertising performance, providing insights into campaign metrics, audience engagement, and advertising effectiveness.
+
+<p align="center">
+  <img src="Screenshot%202026-11-01%20002101.png" width="100%" alt="Facebook Ads Performance Dashboard">
+</p>
+
 ## Key Performance Indicators (KPIs)
 
 | KPI | Description |
